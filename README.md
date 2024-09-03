@@ -1,4 +1,1 @@
-# My First Repo
-This repository is for learning Git.
-GitHub Username: your_username
-GitHub Username: your_username
+This is the root README for my_first_repo.
